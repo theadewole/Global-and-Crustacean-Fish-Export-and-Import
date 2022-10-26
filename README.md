@@ -19,7 +19,6 @@ Before loading the data model, I made sure that only tables that were needed for
 
 # Data Analysis and Visualization 
 
-<details><summary>More</summary>
  
  - **Fish and Crustacean Trade Flow by value and Quantity** 
  
@@ -64,6 +63,6 @@ This visual gives insight in the similitude of the ocean of fish and crustacean 
 
 
 
-[View Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiODcyMjA1MGMtMGJmNC00NTE1LWI2YzktNzZmMmQ5ZjliNjAwIiwidCI6IjA4MmY1ZjZjLWRmYmEtNGFiZS04M2Q1LTEzZmU1MWIzZTc2OSJ9&pageName=ReportSection2746c5225dfefd5b8c08](https://app.powerbi.com/view?r=eyJrIjoiNDIzZjcwODYtN2YxZC00OGE1LWFlNTktMDZiNzQwZDVmNDc0IiwidCI6IjA4MmY1ZjZjLWRmYmEtNGFiZS04M2Q1LTEzZmU1MWIzZTc2OSJ9&pageName=ReportSection65eee980b42e09ad8213)) 
+[View Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNDIzZjcwODYtN2YxZC00OGE1LWFlNTktMDZiNzQwZDVmNDc0IiwidCI6IjA4MmY1ZjZjLWRmYmEtNGFiZS04M2Q1LTEzZmU1MWIzZTc2OSJ9&pageName=ReportSection65eee980b42e09ad8213)
 
 
