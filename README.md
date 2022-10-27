@@ -2,13 +2,13 @@
 _Aquaculture and Fisheries_
 # Introduction 
 
-The Fisheries and Aquaculture industry is one of the industries with large data ranging over centuries which include seasonality, catch, culture, specie type, etc. all these data when analyzed can help generate insight to Improve this sector of any country's economy.
+The Fisheries and Aquaculture industry is one of the industries with large data ranging over centuries which include seasonality, catch, culture, specie type, etc. All these data when analyzed can help generate insight to Improve this sector of any country's economy.
 This current project focuses on the export and import of fish and crustaceans worldwide regarding value (dollar) and quantity for each country.
 
 
 
 # Objective 
-The objective is to enable users to interact with the dashboard to generate insight for the export and import of the fish and crustacean commodity guide towards data-driven decisions for stakeholders as well as anyone that might find this handy for their work. 
+The objective is to enable users to interact with the dashboard to generate insight for the export and import of the fish and crustacean commodity guiding towards data-driven decisions for stakeholders as well as anyone that might find this handy for their work. 
  
 # Data Cleaning and Preprocessing 
 The datasets for this project are gotten from [kaggle.com](https://www.kaggle.com/datasets/zhengtzer/global-fisheries-aquaculture-department?select=).
@@ -33,10 +33,9 @@ This visual represents the import and export of fish by value and quantity
 
 
 
-- **Year analysis by Quantity and Value** 
+- **Yearly analysis by Quantity and Value** 
  
-Year analysis by Quantity and Value 
-This visual represents the yearly analysis across the year covered in this analysis regarding value and quantity with respect to trade flow (import and export)
+This visual represents the yearly range covered in this analysis regarding value and quantity with respect to trade flow (import and export)
  
 ![image](https://user-images.githubusercontent.com/108795960/198080055-f84573af-6da3-4365-ac6c-3b1fb6185d52.png)
  ![image](https://user-images.githubusercontent.com/108795960/198080081-58d9f9a1-8e01-4614-9ed9-90c543d3be47.png)
@@ -47,7 +46,7 @@ This visual represents the yearly analysis across the year covered in this analy
 
 - **Top countries by value and Quantity**
  
-The visual gives insight on the top countries in this by value and quantity which can be further distilled by trade flow.
+The visual gives insight on the top countries by value and quantity which can be further distilled by trade flow.
  
 ![image](https://user-images.githubusercontent.com/108795960/198080370-75995e01-9a6b-4ad0-b877-3cc69146dfee.png)
  ![image](https://user-images.githubusercontent.com/108795960/198080405-1ee4de4c-7017-4cb6-bdda-023c9e3f5276.png)
@@ -55,7 +54,7 @@ The visual gives insight on the top countries in this by value and quantity whic
 
 - **Global pool**
   
-This visual gives insight in the similitude of the ocean of fish and crustacean and show individual country performance by how big the individual element of the visual represent
+This visual gives insight in the similitude of the ocean commodity (fish and crustacean) and show individual country performance by how big the individual element of the visual represent
  
  ![image](https://user-images.githubusercontent.com/108795960/198080482-809c2729-4fef-4ccb-a7b7-603b3f1204d6.png)
  ![image](https://user-images.githubusercontent.com/108795960/198080509-f293222c-b3ce-43be-a1ab-db5e22513533.png)
